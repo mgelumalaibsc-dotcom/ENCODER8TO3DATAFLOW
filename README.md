@@ -55,6 +55,8 @@ Developed by: RegisterNumber: Elumalai-25016790
 
 **RESULTS**
 
+Hence the code is verified using quatrus software
+
 
 
 
